@@ -1,6 +1,6 @@
 # Gerenciador de Agenda de Eventos em C
 
-Exercício da disciplina **Algoritmos 2** (curso de **Sistemas de Informação**, UFMS CPTL) para gerenciar uma agenda de eventos. O programa permite cadastrar, consultar e organizar compromissos, com controle de conflitos de horários.
+Exercício da disciplina **Algoritmos e Programação II** (curso de **Sistemas de Informação**, UFMS CPTL) para gerenciar uma agenda de eventos. O programa permite cadastrar, consultar e organizar compromissos, com controle de conflitos de horários.
 
 ## Funcionalidades
 
