@@ -45,7 +45,10 @@ gcc -o agenda agenda.c
 ```bash
 ./agenda
 ```
-3. Siga as instruções do menu para cadastrar, consultar ou listar eventos.
+3. Siga as instruções do menu para:
+- Cadastrar eventos  
+- Consultar eventos em uma data e horário específicos  
+- Listar todos os eventos de um dia específico
 
 ## Observações
 
